@@ -1,5 +1,6 @@
 import streamlit as st
 import cv2
+print("CV2 cargado correctamente")
 import numpy as np
 from PIL import Image
 import os
